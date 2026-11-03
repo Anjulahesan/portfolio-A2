@@ -1,0 +1,8 @@
+# Dependencies
+node_modules/
+
+# Ignore node_modules inside the portfolio folder
+portfolio/node_modules/
+
+# Ignore history files
+.history/
